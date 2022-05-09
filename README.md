@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @CoryMetcalf96
-- 👀 I’m interested in building a career in software engineering / web development!
-- 🌱 I’m currently learning Javascript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on future portfolio projects.
+Welcome! My name is Cory and I'm a **full-stack software engineer currently going through the General Assembly program**. Programming grew from an early hobby to my career path over the last few years and I dabble daily in my free time. *Everything from front-end website design to algorithm practice to Python games-* I pride myself in my ability to adapt quickly and follow through with any project passionately.
 
-<!---
-CoryMetcalf96/CoryMetcalf96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Favorite Projects:**
+"Is there a book/movie?" - Using API's, creating a base search engine that checks and compares books vs. their movie version and vice versa.
+
+**Proficient Languages:**
+-Javascript, HTML, CSS
+-React
+-Python
+-C#
