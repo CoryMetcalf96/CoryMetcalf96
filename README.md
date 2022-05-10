@@ -7,7 +7,4 @@ Welcome! My name is Cory and I'm a **full-stack software engineer currently goin
 "Is there a book/movie?" - Using API's, creating a base search engine that checks and compares books vs. their movie version and vice versa.
 
 **Proficient Languages:**
--Javascript, HTML, CSS
--React
--Python
--C#
+-Javascript / HTML / CSS, Python, C#, Java.
