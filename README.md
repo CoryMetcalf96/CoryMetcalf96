@@ -5,6 +5,7 @@
 Welcome! My name is Cory and I'm a **full-stack software engineer**. I recently graduated from **General Assembly's 480+ hour Software Engineering Immersive** program. Programming grew from an early hobby to my career path over the last few years and I spend time every day learning and growing in this field. *Everything from front-end website design to algorithm deep-diving and database management-* I pride myself in my ability to adapt quickly and follow through with any project passionately.
 
 **Favorite Projects (As pinned below):**
+
 [Avatar Yearbook](https://avatar-yearbook.netlify.app/) - My first collaborative experience, I took on the role of lead front-end engineer for our social media app. It's an application that we created in an effort to share our information within the cohort, have links to everyones portfolios and social media, and flex our CRUD capabilities and CSS conditionals.
 
 [Mindfull](https://project-mindfull.herokuapp.com/todo) - A full-stack application that works as a personal planner for the user. With the ability to journal, create a to-do list, and set a morning / nighttime routine, this was one of my first dives in to fully vanilla CSS, object management, ect.
