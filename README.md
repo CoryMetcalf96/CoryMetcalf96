@@ -6,6 +6,8 @@ Welcome! My name is Cory and I'm a **full-stack software engineer**. I recently 
 
 **Favorite Projects (As pinned below):**
 
+[AppTrack](https://apptrack2022.herokuapp.com/) - AppTrack was my fourth project through GeneralAssembly. It was my solution to the job-search process and a way to keep everything as organized as possible. Powered by Python / Django, this application allows you to add applications along the way and track / filter them based on priority and application status.
+
 [Avatar Yearbook](https://avatar-yearbook.netlify.app/) - My first collaborative experience, I took on the role of lead front-end engineer for our social media app. It's an application that we created in an effort to share our information within the cohort, have links to everyones portfolios and social media, and flex our CRUD capabilities and CSS conditionals.
 
 [Mindfull](https://project-mindfull.herokuapp.com/todo) - A full-stack application that works as a personal planner for the user. With the ability to journal, create a to-do list, and set a morning / nighttime routine, this was one of my first dives in to fully vanilla CSS, object management, ect.
