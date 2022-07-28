@@ -2,6 +2,8 @@
 
 ** CURRENTLY OPEN TO WORK **
 
+** You can find my [portfolio here!](https://corymetcalfportfolio.com) **
+
 Welcome! My name is Cory and I'm a **full-stack software engineer**. I recently graduated from **General Assembly's 480+ hour Software Engineering Immersive** program. Programming grew from an early hobby to my career path over the last few years and I spend time every day learning and growing in this field. *Everything from front-end website design to algorithm deep-diving and database management-* I pride myself in my ability to adapt quickly and follow through with any project passionately.
 
 **Favorite Projects (As pinned below):**
